@@ -1,6 +1,6 @@
 # Docker file for Image Deployment using python image
 FROM python:3.7.1
-LABEL Author="Arun K Singh"
+LABEL Author="hkc1994"
 LABEL version="0.1"
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV FLASK_APP "main.py"
